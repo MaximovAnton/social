@@ -1,0 +1,22 @@
+.header{
+    grid-area: h;
+    background-color: rgb(163, 15, 221);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.logo{
+    margin-left: 50px;
+}
+
+.loginBlock{
+    margin: 0 50px;
+}
+span{
+    color: rgb(0, 42, 66);
+    font-weight: 700;
+}
+.loginBlock a{
+    color:white;
+}

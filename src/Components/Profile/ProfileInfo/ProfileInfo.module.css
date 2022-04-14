@@ -1,0 +1,13 @@
+.avatar{
+    margin: 50px;
+    background-color: rgb(236, 116, 116);
+}
+
+.statusInput{
+    width: 50px;
+}
+
+.contact{
+    color: rgb(16, 230, 80);
+    padding-left: 10px;
+}

@@ -1,0 +1,9 @@
+.photo{
+    width: 50px;
+}
+
+.preloader{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
