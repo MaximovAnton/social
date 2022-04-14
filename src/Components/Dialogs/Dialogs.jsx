@@ -45,7 +45,7 @@ const AddMessageForm = (props) => {
         <form onSubmit={props.handleSubmit} >
             <Field component='textarea' name='newMessageBody' placeholder='Enter your message' />
 
-            <button >SendMessage</button>
+            <button>SendMessage</button>
         </form>
     )
 }
